@@ -54,6 +54,9 @@ section{
     color: white;
     font-weight: 700px 
 }
+.link-button :hover{
+    background-color: aqua;
+}
 .experience{
     margin-left: 5%;
     padding-left: 2%;
